@@ -1,3 +1,2 @@
-MSuhochev - Максим
-Lidiya Lesnikova - Лидия
-Mikaelian - unnamemik
+MSuhochev
+Lidiya Lesnikova
