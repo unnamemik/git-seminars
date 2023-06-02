@@ -1,0 +1,575 @@
+Index: pythonProject/.idea/vcs.xml
+===================================================================
+diff --git a/pythonProject/.idea/vcs.xml b/pythonProject/.idea/vcs.xml
+deleted file mode 100644
+--- a/pythonProject/.idea/vcs.xml	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
++++ /dev/null	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: pythonProject/.idea/workspace.xml
+===================================================================
+diff --git a/pythonProject/.idea/workspace.xml b/pythonProject/.idea/workspace.xml
+deleted file mode 100644
+--- a/pythonProject/.idea/workspace.xml	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
++++ /dev/null	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
+@@ -1,73 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ChangeListManager">
+-    <list default="true" id="e1ab20b6-5eb5-4a20-b293-e99fc14b00db" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../seminar3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../seminar3/.idea/vcs.xml" afterDir="false" />
+-    </list>
+-    <option name="SHOW_DIALOG" value="false" />
+-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-    <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="Git.Settings">
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+-  </component>
+-  <component name="ProjectId" id="2Qeyd6xrhYFqUB62d76pW711nEU" />
+-  <component name="ProjectViewState">
+-    <option name="hideEmptyMiddlePackages" value="true" />
+-    <option name="showLibraryContents" value="true" />
+-  </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "last_opened_file_path": "/home/mike/PycharmProjects"
+-  }
+-}]]></component>
+-  <component name="RunManager">
+-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+-      <module name="pythonProject" />
+-      <option name="INTERPRETER_OPTIONS" value="" />
+-      <option name="PARENT_ENVS" value="true" />
+-      <envs>
+-        <env name="PYTHONUNBUFFERED" value="1" />
+-      </envs>
+-      <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+-      <option name="IS_MODULE_SDK" value="true" />
+-      <option name="ADD_CONTENT_ROOTS" value="true" />
+-      <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+-      <option name="PARAMETERS" value="" />
+-      <option name="SHOW_COMMAND_LINE" value="false" />
+-      <option name="EMULATE_TERMINAL" value="false" />
+-      <option name="MODULE_MODE" value="false" />
+-      <option name="REDIRECT_INPUT" value="false" />
+-      <option name="INPUT_FILE" value="" />
+-      <method v="2" />
+-    </configuration>
+-  </component>
+-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+-  <component name="TaskManager">
+-    <task active="true" id="Default" summary="Default task">
+-      <changelist id="e1ab20b6-5eb5-4a20-b293-e99fc14b00db" name="Changes" comment="" />
+-      <created>1685728426278</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1685728426278</updated>
+-    </task>
+-    <servers />
+-  </component>
+-  <component name="XDebuggerManager">
+-    <breakpoint-manager>
+-      <breakpoints>
+-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+-          <url>file://$PROJECT_DIR$/main.py</url>
+-          <line>8</line>
+-          <option name="timeStamp" value="1" />
+-        </line-breakpoint>
+-      </breakpoints>
+-    </breakpoint-manager>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: seminar3/.idea/seminar3.iml
+===================================================================
+diff --git a/seminar3/.idea/seminar3.iml b/seminar3/.idea/seminar3.iml
+deleted file mode 100644
+--- a/seminar3/.idea/seminar3.iml	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
++++ /dev/null	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="PYTHON_MODULE" version="4">
+-  <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$" />
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: pythonProject/.idea/modules.xml
+===================================================================
+diff --git a/pythonProject/.idea/modules.xml b/pythonProject/.idea/modules.xml
+deleted file mode 100644
+--- a/pythonProject/.idea/modules.xml	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
++++ /dev/null	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/.idea/pythonProject.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: pythonProject/main.py
+===================================================================
+diff --git a/pythonProject/main.py b/pythonProject/main.py
+deleted file mode 100644
+--- a/pythonProject/main.py	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
++++ /dev/null	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
+@@ -1,16 +0,0 @@
+-# This is a sample Python script.
+-
+-# Press Shift+F10 to execute it or replace it with your code.
+-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+-
+-
+-def print_hi(name):
+-    # Use a breakpoint in the code line below to debug your script.
+-    print(f'Hi, {name}')  # Press Ctrl+8 to toggle the breakpoint.
+-
+-
+-# Press the green button in the gutter to run the script.
+-if __name__ == '__main__':
+-    print_hi('PyCharm')
+-
+-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+Index: seminar3/.idea/inspectionProfiles/profiles_settings.xml
+===================================================================
+diff --git a/seminar3/.idea/inspectionProfiles/profiles_settings.xml b/seminar3/.idea/inspectionProfiles/profiles_settings.xml
+deleted file mode 100644
+--- a/seminar3/.idea/inspectionProfiles/profiles_settings.xml	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
++++ /dev/null	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
+@@ -1,6 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <settings>
+-    <option name="USE_PROJECT_PROFILE" value="false" />
+-    <version value="1.0" />
+-  </settings>
+-</component>
+\ No newline at end of file
+Index: seminar3/.idea/modules.xml
+===================================================================
+diff --git a/seminar3/.idea/modules.xml b/seminar3/.idea/modules.xml
+deleted file mode 100644
+--- a/seminar3/.idea/modules.xml	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
++++ /dev/null	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/seminar3.iml" filepath="$PROJECT_DIR$/.idea/seminar3.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: main.js
+===================================================================
+diff --git a/main.js b/main.js
+deleted file mode 100644
+--- a/main.js	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
++++ /dev/null	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
+@@ -1,46 +0,0 @@
+-(function(){
+-    let countSpaces = function(text) {
+-        let matches = text.matchAll(/\s/g);
+-        let count = 0;
+-        for(let match of matches) {
+-            count++;
+-        }
+-        return count;
+-    }
+-
+-    let changeButtonsStatus = function(enable) {
+-        let countButton = document.querySelector('#count-button');
+-        let resetButton = document.querySelector('#reset-button');
+-        if (enable) {
+-            countButton.removeAttribute('disabled');
+-            resetButton.removeAttribute('disabled');
+-        } else {
+-            countButton.setAttribute('disabled', 'disabled');
+-            resetButton.setAttribute('disabled', 'disabled');
+-        }
+-    }
+-
+-    document.addEventListener('DOMContentLoaded', function(){
+-        let textArea = document.querySelector('#text');
+-        let result = document.querySelector('#result');
+-        let countButton = document.querySelector('#count-button');
+-        let resetButton = document.querySelector('#reset-button');
+-
+-        countButton.addEventListener('click', function(){
+-            let text = textArea.value;
+-            let withoutSpaces = text.length - countSpaces(text);
+-            result.innerHTML = '<b>Длина текста:</b> ' +
+-                text.length + ' символов<br>' +
+-                '<b>Без пробелов:</b> ' + withoutSpaces + '<br>';
+-        });
+-
+-        textArea.addEventListener('keyup', function(){
+-            changeButtonsStatus(textArea.value.length > 0);
+-        });
+-
+-        resetButton.addEventListener('click', function(){
+-            textArea.value = '';
+-            changeButtonsStatus(false);
+-        });
+-    });
+-}());
+\ No newline at end of file
+Index: pythonProject/.idea/pythonProject.iml
+===================================================================
+diff --git a/pythonProject/.idea/pythonProject.iml b/pythonProject/.idea/pythonProject.iml
+deleted file mode 100644
+--- a/pythonProject/.idea/pythonProject.iml	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
++++ /dev/null	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="PYTHON_MODULE" version="4">
+-  <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$" />
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: seminar3/.idea/.gitignore
+===================================================================
+diff --git a/seminar3/.idea/.gitignore b/seminar3/.idea/.gitignore
+deleted file mode 100644
+--- a/seminar3/.idea/.gitignore	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
++++ /dev/null	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
+@@ -1,3 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+Index: index.html
+===================================================================
+diff --git a/index.html b/index.html
+deleted file mode 100644
+--- a/index.html	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
++++ /dev/null	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
+@@ -1,40 +0,0 @@
+-<!DOCTYPE html>
+-<html>
+-<head>
+-    <meta charset='utf-8'>
+-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+-    <title>Измеритель длины текста</title>
+-    <style>
+-        body {
+-            padding: 40px;
+-        }
+-        * {
+-            font-family: Verdana, Geneva, Tahoma, sans-serif;
+-            color: rgb(40, 40, 40);
+-        }
+-        #text {
+-            width: 600px;
+-            height: 200px;
+-            display: block;
+-            margin-bottom: 20px;
+-        }
+-        #result {
+-            margin-top: 20px;
+-        }
+-        #reset-button {
+-            margin-left: 20px;
+-        }
+-    </style>
+-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+-    <script src="main.js"></script>
+-</head>
+-<body>
+-    <h1>Измеритель длины текста</h1>
+-    <p class="fw-lighter">Введите текст в поле ниже, и система измерит и покажет его длину.</p>
+-    <textarea class="form-control" id="text"></textarea>
+-    <button class="btn btn-success" id="count-button" disabled="disabled">Посчитать</button>
+-    <button class="btn btn-danger" id="reset-button" disabled="disabled">Очистить</button>
+-    <div id="result"></div>
+-</body>
+-</html>
+\ No newline at end of file
+Index: seminar3/.idea/misc.xml
+===================================================================
+diff --git a/seminar3/.idea/misc.xml b/seminar3/.idea/misc.xml
+deleted file mode 100644
+--- a/seminar3/.idea/misc.xml	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
++++ /dev/null	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
+@@ -1,4 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10" project-jdk-type="Python SDK" />
+-</project>
+\ No newline at end of file
+Index: seminar1/readme
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>created\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/seminar1/readme b/seminar1/readme
+--- a/seminar1/readme	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
++++ b/seminar1/readme	(date 1685730650149)
+@@ -1,1 +1,0 @@
+-created
+Index: pythonProject/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/pythonProject/.idea/misc.xml b/.idea/misc.xml
+rename from pythonProject/.idea/misc.xml
+rename to .idea/misc.xml
+--- a/pythonProject/.idea/misc.xml	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
++++ b/.idea/misc.xml	(date 1685731226108)
+@@ -1,4 +1,4 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10" project-jdk-type="Python SDK" />
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8" project-jdk-type="Python SDK" />
+ </project>
+\ No newline at end of file
+Index: seminar1/readme-test2
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>created\nchanged\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/seminar1/readme-test2 b/seminar1/readme-test2
+--- a/seminar1/readme-test2	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
++++ b/seminar1/readme-test2	(date 1685730650153)
+@@ -1,2 +1,0 @@
+-created
+-changed
+Index: seminar3/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/seminar3/.idea/vcs.xml b/.idea/vcs.xml
+rename from seminar3/.idea/vcs.xml
+rename to .idea/vcs.xml
+--- a/seminar3/.idea/vcs.xml	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
++++ b/.idea/vcs.xml	(date 1685731226124)
+@@ -1,6 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
++    <mapping directory="" vcs="Git" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+new file mode 100644
+--- /dev/null	(date 1685731531402)
++++ b/.idea/workspace.xml	(date 1685731531402)
+@@ -0,0 +1,90 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="AutoImportSettings">
++    <option name="autoReloadType" value="SELECTIVE" />
++  </component>
++  <component name="ChangeListManager">
++    <list default="true" id="2f0c16ba-c9a7-48a7-8b61-c60c72a3f9aa" name="Changes" comment="">
++      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/logs/.gitkeep" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/logs/access.log" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/logs/error.log" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/modules.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/pythonProject.iml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/vcs.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/workspace.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/pythonProject/main.py" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/seminar1-homework/PWM.ino" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/seminar1/readme" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/seminar1/readme-test1" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/seminar1/readme-test2" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/seminar2-homework/readme" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/seminar2-homework/readme-test1" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/seminar2-homework/readme-test2" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/seminar3/.idea/.gitignore" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/seminar3/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/seminar3/.idea/misc.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/seminar3/.idea/modules.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/seminar3/.idea/seminar3.iml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/seminar3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++    </list>
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="UPDATE_TYPE" value="REBASE" />
++  </component>
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;
++  }
++}</component>
++  <component name="GithubPullRequestsUISettings">
++    <option name="selectedUrlAndAccountId">
++      <UrlAndAccount>
++        <option name="accountId" value="8ef4c971-4eab-499d-8385-9669bc4d7f3d" />
++        <option name="url" value="https://github.com/Seminar-three/repo-for-seminar" />
++      </UrlAndAccount>
++    </option>
++  </component>
++  <component name="MarkdownSettingsMigration">
++    <option name="stateVersion" value="1" />
++  </component>
++  <component name="ProjectId" id="2Qf1PkZh6tvQXgoEvFaujceZykb" />
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
++  </component>
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;/home/mike/Desktop/seminar3&quot;
++  }
++}</component>
++  <component name="RecentsManager">
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="$PROJECT_DIR$/seminar3" />
++      <recent name="$PROJECT_DIR$/pythonProject" />
++    </key>
++  </component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="2f0c16ba-c9a7-48a7-8b61-c60c72a3f9aa" name="Changes" comment="" />
++      <created>1685729799207</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1685729799207</updated>
++    </task>
++    <servers />
++  </component>
++</project>
+\ No newline at end of file
+Index: seminar1-homework/PWM.ino
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>// PWM 11.09.2021\n// 100 33150 256000\n\nvolatile float PWM=0;\nfloat pwr=0.4; //power (40% optimal for relief print)\n\nvoid setup() {\n  Serial.begin(115200);\n  pinMode(2, INPUT);    // step A\n  pinMode(3, INPUT);    // step Z\n  pinMode(4, INPUT);    // dir A\n  pinMode(5, OUTPUT);   // PWM\n  pinMode(6, INPUT);    // dir Z\n         attachInterrupt (0, pinOutA, CHANGE); //A down\n         attachInterrupt (1, pinOutZ, CHANGE); //Z up\n}\n\nvoid loop() {\n     if (PWM>0) {PWM=0;} else if (PWM<-255) {PWM=-255;}    \n         \n   //  if (PWM>(-155)) {pwr=0;} else {pwr=0.4;}\n       \n       Serial.println (-PWM);\n       analogWrite (5, (-PWM*pwr));\n}\n       \nvoid pinOutA (){if (digitalRead (4)==LOW) {--PWM;}}\n\nvoid pinOutZ (){if (digitalRead (6)==HIGH) {PWM++;}}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/seminar1-homework/PWM.ino b/seminar1-homework/PWM.ino
+--- a/seminar1-homework/PWM.ino	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
++++ b/seminar1-homework/PWM.ino	(date 1685730650145)
+@@ -1,29 +1,0 @@
+-// PWM 11.09.2021
+-// 100 33150 256000
+-
+-volatile float PWM=0;
+-float pwr=0.4; //power (40% optimal for relief print)
+-
+-void setup() {
+-  Serial.begin(115200);
+-  pinMode(2, INPUT);    // step A
+-  pinMode(3, INPUT);    // step Z
+-  pinMode(4, INPUT);    // dir A
+-  pinMode(5, OUTPUT);   // PWM
+-  pinMode(6, INPUT);    // dir Z
+-         attachInterrupt (0, pinOutA, CHANGE); //A down
+-         attachInterrupt (1, pinOutZ, CHANGE); //Z up
+-}
+-
+-void loop() {
+-     if (PWM>0) {PWM=0;} else if (PWM<-255) {PWM=-255;}    
+-         
+-   //  if (PWM>(-155)) {pwr=0;} else {pwr=0.4;}
+-       
+-       Serial.println (-PWM);
+-       analogWrite (5, (-PWM*pwr));
+-}
+-       
+-void pinOutA (){if (digitalRead (4)==LOW) {--PWM;}}
+-
+-void pinOutZ (){if (digitalRead (6)==HIGH) {PWM++;}}
+Index: seminar2-homework/readme-test1
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>changed two\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/seminar2-homework/readme-test1 b/seminar2-homework/readme-test1
+--- a/seminar2-homework/readme-test1	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
++++ b/seminar2-homework/readme-test1	(date 1685730650141)
+@@ -1,1 +1,0 @@
+-changed two
+Index: seminar2-homework/readme
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>changed one\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/seminar2-homework/readme b/seminar2-homework/readme
+--- a/seminar2-homework/readme	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
++++ b/seminar2-homework/readme	(date 1685730650141)
+@@ -1,1 +1,0 @@
+-changed one
+Index: seminar2-homework/readme-test2
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>created\nchanged\nmodified part3\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/seminar2-homework/readme-test2 b/seminar2-homework/readme-test2
+--- a/seminar2-homework/readme-test2	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
++++ b/seminar2-homework/readme-test2	(date 1685730650141)
+@@ -1,3 +1,0 @@
+-created
+-changed
+-modified part3
+Index: seminar1/readme-test1
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>created\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/seminar1/readme-test1 b/seminar1/readme-test1
+--- a/seminar1/readme-test1	(revision 1e4fb82fb355da632fbf904a4f044aa4c720da0a)
++++ b/seminar1/readme-test1	(date 1685730650153)
+@@ -1,1 +1,0 @@
+-created
+diff --git a/pythonProject/.idea/inspectionProfiles/profiles_settings.xml b/.idea/inspectionProfiles/profiles_settings.xml
+rename from pythonProject/.idea/inspectionProfiles/profiles_settings.xml
+rename to .idea/inspectionProfiles/profiles_settings.xml
